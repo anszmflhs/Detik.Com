@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DetikCom/app/src/main/res/drawable/gradient_colourss.xml" value="0.290625" />
+        <entry key="..\:/DetikCom/app/src/main/res/drawable/share.xml" value="0.290625" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_culinery.xml" value="0.14375" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_detail_culinery.xml" value="0.152" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_detail_news_indo.xml" value="0.264" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_detail_news_uk.xml" value="0.2" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_detail_news_us.xml" value="0.264" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_detail_sport.xml" value="0.264" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_detail_weekend.xml" value="0.26902173913043476" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_main.xml" value="0.46228070175438596" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_news_indo.xml" value="0.14200542005420055" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_news_uk.xml" value="0.13645833333333332" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_news_us.xml" value="0.14010416666666667" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_news_weekend.xml" value="0.1" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_pasien_mati.xml" value="0.20471014492753623" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_pasien_sembuh.xml" value="0.2" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_positive_covid.xml" value="0.2" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_propinsi.xml" value="0.22009569377990432" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_sport.xml" value="0.14959349593495935" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/activity_web_view.xml" value="0.4" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_culinery.xml" value="0.14375" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_indo.xml" value="0.264" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_propinsi.xml" value="0.264" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_sport.xml" value="0.176" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_ua.xml" value="0.12604166666666666" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_uk.xml" value="0.264" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_us.xml" value="0.2" />
+        <entry key="..\:/DetikCom/app/src/main/res/layout/item_recycler_weekend.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

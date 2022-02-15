@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.detikcom">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/news1"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/news1"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DetikCom">
+        <activity
+            android:name=".activity.DetailWeekendActivity"
+            android:exported="true"
+            android:parentActivityName=".activity.NewsWeekendActivity"/>
+        <activity
+            android:name=".activity.NewsWeekendActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".activity.DetailCulineryActivity"
+            android:exported="true"
+            android:parentActivityName=".activity.NewsCulineryActivity"/>
+        <activity
+            android:name=".activity.NewsCulineryActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".activity.WebViewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".activity.DetailSportActivity"
+            android:exported="true"
+            android:parentActivityName=".activity.NewsSportActivity"/>
+        <activity
+            android:name=".activity.NewsSportActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".activity.PropinsiActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.DetikCom"/>
+        <activity
+            android:name=".activity.PasienMatiActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.DetikCom"/>
+        <activity
+            android:name=".activity.PasienSembuhActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.DetikCom"/>
+        <activity
+            android:name=".activity.PositiveCovidActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.DetikCom"/>
+        <activity
+            android:name=".activity.DetailNewsUkActivity"
+            android:exported="true"
+            android:parentActivityName=".activity.NewsUkActivity"/>
+        <activity
+            android:name=".activity.DetailNewsUsActivity"
+            android:exported="true"
+            android:parentActivityName=".activity.NewsUsActivity"/>
+        <activity
+            android:name=".activity.DetailNewsIndo"
+            android:exported="true"
+            android:parentActivityName=".activity.NewsIndoActivity"/>
+        <activity
+            android:name=".activity.NewsUkActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".activity.NewsUsActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DetikCom"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".activity.NewsIndoActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
